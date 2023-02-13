@@ -18,7 +18,7 @@ A folder with the name of the PDF File will be created in the directory of the p
 In this folder, three more folders will be created, namely (Images, Output, Merge)
 Images folder will contain the images from the PDF file. These images will then be scanned
 and kept in the Output folder. If merging is needed, every two images from the Output folder
-will then be merged into a single image.
+will then be merged into a single image and stored in the Merge folder.
 
 A scanning code is kept separate as it is used as a tool. Store it in the same file
 folder which contains the PDF files and this ESM code.
