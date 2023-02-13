@@ -5,6 +5,8 @@ Every subsequent two pages are then merged for a collective single page view, ma
 
 --------------------------------------------------
 
+The main code which has been refined and contains all functions of Extract, Scan, and Merge is (0-ESM.py)
+
 Usage - [/E] [/S] [/R] [/M] "PDF-File"
 
 Either one switch can be used, or two, or all switches can be used.
